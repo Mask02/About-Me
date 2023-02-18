@@ -56,15 +56,15 @@ Joined Github **3** years ago.
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
 -->
 
-### Projects and Dev Stuffs:
+<!-- ### Projects and Dev Stuffs: -->
 
-<details>	
+<!-- <details>	
   <summary><b>⚡ Github Stats</b></summary>.
 
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampavangandhi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
+</details> -->
 
 <!-- <details>	
 <!--   <summary><b>☄️ Github Streaks</b></summary> -->
@@ -74,7 +74,7 @@ Joined Github **3** years ago.
 </details> -->
 
 <details> -->
-  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
+<!--   <summary><b>🧑‍🚀 Open Source Projects</b></summary>
 
   <br />
   <table>
@@ -127,7 +127,7 @@ Joined Github **3** years ago.
 </details>
  
 <details>	
-  <br />
+  <br /> -->
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> Ubuntu 22.04</li>
