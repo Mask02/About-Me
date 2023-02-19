@@ -125,9 +125,9 @@ Joined Github **3** years ago.
   </table>
   <br />
 </details>
- 
+<!--   -->
 <details>	
-  <br /> -->
+<br /> 
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> Ubuntu 22.04</li>
