@@ -28,7 +28,7 @@ Joined Github **3** years ago.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Mask02).
 <!-- - 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help. -->
-- 👾 &nbsp; Fun fact: NaN (not a number) is a number.
+- 👾 &nbsp; Fun fact:In JS NaN (not a number) is a number.
 - 📫 &nbsp; How to reach me:[shoaibakbarm@gmail.com](shoaibakbarm@gmail.com).
 - 📝 &nbsp; Checkout my [Resume](https://resume.io/r/JEexv575d).
 
