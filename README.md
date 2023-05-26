@@ -30,7 +30,7 @@ Joined Github **3** years ago.
 <!-- - 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help. -->
 - 👾 &nbsp; Fun fact:In JS NaN (not a number) is a number.
 - 📫 &nbsp; How to reach me:[shoaibakbarm@gmail.com](shoaibakbarm@gmail.com).
-- 📝 &nbsp; Checkout my [Resume](https://resume.io/r/JEexv575d).
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1-qfGd-C4-4om_hirCOA_H4nPbdFVTASp/view?usp=share_link).
 
 ### My Absolute Favorites:
 
