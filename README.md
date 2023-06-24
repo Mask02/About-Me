@@ -23,7 +23,7 @@ Joined Github **3** years ago.
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Python, Flask, Django, Web Automation React, <br /> Javascript, Python Selenium, etc.
+- 🛠 &nbsp; I’m currently working with Python, Flask, Django, Web Automation (Selenium) and React etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Mask02).
 - 👾 &nbsp; Fun fact:In JS NaN (not a number) is a number.
