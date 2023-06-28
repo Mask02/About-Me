@@ -28,7 +28,7 @@ Joined Github **3** years ago.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Mask02).
 - 👾 &nbsp; Fun fact:In JS NaN (not a number) is a number.
 - 📫 &nbsp; How to reach me:[shoaibakbarm@gmail.com](shoaibakbarm@gmail.com).
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1-qfGd-C4-4om_hirCOA_H4nPbdFVTASp/view?usp=share_link).
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1s8-4ywL0-OdSerGYXwzOsT5Pc240rwvf/view?usp=sharing).
 
 ### My Absolute Favorites:
 
