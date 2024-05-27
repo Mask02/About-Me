@@ -27,7 +27,7 @@ Skill Issue (4/650)
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Mask02).
 - 👾 &nbsp; Fun fact:In JS NaN (not a number) is a number.
 - 📫 &nbsp; How to reach me:[shoaibakbarm@gmail.com](shoaibakbarm@gmail.com).
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1s8-4ywL0-OdSerGYXwzOsT5Pc240rwvf/view?usp=sharing).
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1fh9v4Q0vzwIX-AclbFII6MI7aji1Y6rJ/view?usp=sharing).
 
 ### My Absolute Favorites:
 
