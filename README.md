@@ -7,26 +7,19 @@
 
 ### Glad to see you here! &nbsp; 
 
-I'm a graduate in Computer Science 🎓 from UAF Faislabad 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on React Js and Python( Flask, Web Automation, Scrapping)🤓.
+I'm a Software Engineer. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on React Js, Next Js and Python( Flask, Web Automation, Scrapping)🤓.
 
-
-
-
-
-
-
-Skill Issue (4/650)
 
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Python, Flask, Django, Web Automation (Selenium) and React etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 🛠 &nbsp; I’m currently working with  React Js, Next Js and Python( Flask, Web Automation, Scrapping).
+- 🚀 &nbsp; I’m currently learning Backend Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Mask02).
 - 👾 &nbsp; Fun fact:In JS NaN (not a number) is a number.
-- 📫 &nbsp; How to reach me:[shoaibakbarm@gmail.com](shoaibakbarm@gmail.com).
+- 📫 &nbsp; How to reach me:[shoaibakbarswe@gmail.com](shoaibakbarswe@gmail.com).
 - 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1fh9v4Q0vzwIX-AclbFII6MI7aji1Y6rJ/view?usp=sharing).
 
 ### My Absolute Favorites:
